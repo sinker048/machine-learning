@@ -1,2 +1,2 @@
 # machine_learning
-This is my work on machine learning.
+There are several projects about machine learing.
